@@ -12,6 +12,7 @@ Here's the list of movies with a rating:
 | Bonhoeffer | Historical Drama | 3.5/5 |
 
 ---
+
 ## Inside Out 2
 ![](/images/insideout.jpeg)
 
@@ -20,6 +21,7 @@ I really enjoyed _Inside Out 2_ honestly a lot more than I thought I would. The 
 [_Inside Out 2_ Trailer](https://www.youtube.com/watch?v=LEjhY15eCx0)
 
 ---
+
 ## The Fall Guy
 ![](/images/fallguy.jpg)
 
@@ -28,6 +30,7 @@ _The Fall Guy_ was one of my favorite movies I watched this year, so much so tha
 [_The Fall Guy_ Trailer](https://www.youtube.com/watch?v=j7jPnwVGdZ8)
 
 ---
+
 ## Wicked
 ![](/images/wicked.jpeg)
 
@@ -36,6 +39,7 @@ _Wicked_ was my favorite film this year. I cried at the end. I grew up loving mu
 [_Wicked_ Trailer](https://www.youtube.com/watch?v=6COmYeLsz4c)
 
 ---
+
 ## Bonhoeffer
 ![](/images/bonhoeffer.jpg)
 
