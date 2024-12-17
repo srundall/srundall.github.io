@@ -14,4 +14,11 @@ Here's the list of movies with a rating:
 ---
 ## Inside Out 2
 
+---
+## The Fall Guy
 
+---
+## Wicked
+
+---
+## Bonhoeffer
