@@ -13,12 +13,16 @@ Here's the list of movies with a rating:
 
 ---
 ## Inside Out 2
+[_Inside Out 2_ Trailer](https://www.youtube.com/watch?v=LEjhY15eCx0)
 
 ---
 ## The Fall Guy
+[_The Fall Guy_ Trailer](https://www.youtube.com/watch?v=j7jPnwVGdZ8)
 
 ---
 ## Wicked
+[_Wicked_ Trailer](https://www.youtube.com/watch?v=6COmYeLsz4c)
 
 ---
 ## Bonhoeffer
+[_Bonhoeffer_ Trailer](https://www.youtube.com/watch?v=WZM90izJ8sI)
