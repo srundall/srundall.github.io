@@ -15,4 +15,4 @@ Here's the list of movies with a rating:
 ## Inside Out 2
 
 git add images/insideout.jpg
-git commit -m "Add starrynight.jpg image"
+git commit -m "Add insideout.jpg image"
