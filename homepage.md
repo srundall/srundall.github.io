@@ -12,3 +12,6 @@ Here's the list of movies with a rating:
 | Bonhoeffer | Historical Drama | 3.5/5 |
 
 ---
+## Inside Out 2
+
+git add images/insideout.jpg
