@@ -6,7 +6,9 @@ Here's the list of movies with a rating:
 
 | Movie | Genre | Rating |
 |----------|----------|----------|
-| Inside Out 2 | Animated | 4/5 |
+| Inside Out 2 | Animation | 4/5 |
 | The Fall Guy | Action/Comedy | 5/5 |
 | Wicked | Musical Adaptation | 4.5/5 |
 | Bonhoeffer | Historical Drama | 3.5/5 |
+
+---
